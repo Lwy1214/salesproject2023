@@ -9,3 +9,5 @@ C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.
 C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.csproj.CoreCompileInputs.cache
 C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.exe
 C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.pdb
+C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.login.resources
+C:\Users\lwy12\source\repos\salesproj2023\salesproj2023\obj\Debug\salesproj2023.Form3.resources
